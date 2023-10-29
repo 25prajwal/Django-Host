@@ -1,6 +1,1 @@
-asgiref
-Django
-pytz
-sqlparse
-gunicorn
-whitenoise
+
